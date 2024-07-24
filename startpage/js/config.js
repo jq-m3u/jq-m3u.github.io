@@ -112,7 +112,7 @@
         /**
          * Max number of suggestions that will ever be shown.
          */
-        suggestionLimit: 8,
+        suggestionLimit: 10,
 
         /**
          * Default search suggestions for the specified queries.
@@ -177,6 +177,12 @@
                 url: 'https://cobalt.tools/',
             },
             {
+                hues: ['0', '156'],
+                key: 'ebay',
+                name: 'EBay',
+                url: 'https://ebay.com/',
+            },
+            {
                 hues: ['120', '30'],
                 key: 'studentvue',
                 name: 'StudentVue',
@@ -212,6 +218,12 @@
                 hues: ['108', '294'],
                 key: 'copilot',
                 name: 'Copilot',
+                url: 'https://amazon.com/',
+            },
+            {
+                hues: ['50', '50'],
+                key: 'amazon',
+                name: 'Amazon',
                 url: 'https://copilot.microsoft.com/',
             },
             {
