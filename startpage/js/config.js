@@ -218,13 +218,13 @@
                 hues: ['108', '294'],
                 key: 'copilot',
                 name: 'Copilot',
-                url: 'https://amazon.com/',
+                url: 'https://copilot.microsoft.com/',
             },
             {
                 hues: ['50', '50'],
                 key: 'amazon',
                 name: 'Amazon',
-                url: 'https://copilot.microsoft.com/',
+                url: 'https://amazon.com/',
             },
             {
                 hues: ['0', '79'],
