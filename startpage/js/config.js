@@ -227,6 +227,12 @@
                 url: 'https://amazon.com/',
             },
             {
+                hues: ['288', '27'],
+                key: 'insta',
+                name: 'Instagram',
+                url: 'https://instagram.com/',
+            },
+            {
                 hues: ['0', '79'],
                 key: 'gmail',
                 name: 'Google Mail',
