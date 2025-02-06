@@ -15,6 +15,7 @@
 * {
   box-sizing: border-box;
   text-transform: lowercase;
+  font-family: "Windows" !important; 
 }
 
 html,

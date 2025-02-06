@@ -60,7 +60,7 @@
          * Instantly redirect when a key is matched. Put a space before any other
          * queries to prevent unwanted redirects.
          */
-        queryInstantRedirect: false,
+        queryInstantRedirect: true,
 
         /**
          * Open triggered queries in a new tab.
@@ -112,7 +112,7 @@
         /**
          * Max number of suggestions that will ever be shown.
          */
-        suggestionLimit: 10,
+        suggestionLimit: 5,
 
         /**
          * Default search suggestions for the specified queries.
@@ -152,12 +152,6 @@
                 url: 'https://www.google.com',
             },
             {
-                hues: ['204', '204'],
-                key: 'ye',
-                name: 'Ye Tracker',
-                url: 'https://trackerhub.vercel.app/s/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k/best',
-            },
-            {
                 hues: ['0', '0'],
                 key: 'music',
                 name: 'Apple Music',
@@ -165,16 +159,23 @@
             },
             {
                 hues: ['0', '5'],
-                key: 'youtube',
+                key: 'yt',
                 name: 'YouTube',
                 search: '/results?search_query={}',
                 url: 'https://youtube.com/',
             },
             {
-                hues: ['298', '298'],
-                key: 'cobalt',
-                name: 'Cobalt',
-                url: 'https://cobalt.tools/',
+                hues: ['0', '79'],
+                key: 'gmail',
+                name: 'Google Mail',
+                search: '/mail/u/0/?q={}#search/{}',
+                url: 'https://mail.google.com/mail/u/0',
+            },
+            {
+                hues: ['50', '50'],
+                key: 'amazon',
+                name: 'Amazon',
+                url: 'https://amazon.com/',
             },
             {
                 hues: ['0', '156'],
@@ -196,48 +197,53 @@
                 url: 'https://trackerhub.vercel.app/',
             },
             {
+                hues: ['128', '135'],
+                key: 'comps',
+                name: 'Comps',
+                url: 'https://docs.google.com/spreadsheets/d/1jIuHLBSDSWACWKEwa8QxxGEdFQHddL2SvVWhW52nx1U/edit?gid=1354754991#gid=1354754991',
+            },
+            {
+                hues: ['138', '138'],
+                key: 'gpt',
+                name: 'ChatGPT',
+                url: 'https://chat.openai.com/',
+            },
+            {
                 hues: ['120', '130'],
-                key: 'github',
+                key: 'git',
                 name: 'GitHub',
                 search: '/search?q={}',
                 url: 'https://github.com/',
             },
             {
-                hues: ['285', '301'],
-                key: 'untitled',
-                name: '[untitled]',
-                url: 'https://untitled.stream/',
+                hues: ['204', '204'],
+                key: 'ye',
+                name: 'Ye Tracker',
+                url: 'https://trackerhub.cx/sh/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k',
             },
             {
-                hues: ['138', '138'],
-                key: 'chatgpt',
-                name: 'ChatGPT',
-                url: 'https://chat.openai.com/',
+                hues: ['231', '212'],
+                key: 'ds',
+                name: 'DeepSeek',
+                url: 'https://chat.deepseek.com/',
             },
             {
-                hues: ['108', '294'],
+                hues: ['230', '294'],
                 key: 'copilot',
                 name: 'Copilot',
                 url: 'https://copilot.microsoft.com/',
             },
             {
-                hues: ['50', '50'],
-                key: 'amazon',
-                name: 'Amazon',
-                url: 'https://amazon.com/',
+                hues: ['298', '298'],
+                key: 'cobalt',
+                name: 'Cobalt',
+                url: 'https://cobalt.tools/',
             },
             {
                 hues: ['288', '27'],
                 key: 'insta',
                 name: 'Instagram',
                 url: 'https://instagram.com/',
-            },
-            {
-                hues: ['0', '79'],
-                key: 'gmail',
-                name: 'Google Mail',
-                search: '/mail/u/0/?q={}#search/{}',
-                url: 'https://mail.google.com/mail/u/0',
             },
         ].map((command) => {
             const hsla = (hue, saturation = 'var(--command-color-saturation)') =>
