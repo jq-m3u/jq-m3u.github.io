@@ -11,7 +11,7 @@ body {
 }
 
 .spinning-cd {
-  display: block;
+  display: inline-flex;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20%;
