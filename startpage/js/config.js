@@ -194,7 +194,7 @@
                 hues: ['103', '138'],
                 key: 'tracker',
                 name: 'TrackerHub',
-                url: 'https://trackerhub.vercel.app/',
+                url: 'https://trackerhub.cx/',
             },
             {
                 hues: ['128', '135'],
@@ -219,7 +219,7 @@
                 hues: ['204', '204'],
                 key: 'ye',
                 name: 'Ye Tracker',
-                url: 'https://trackerhub.cx/sh/1vW-nFbnR02F9BEnNPe5NBejHRGPt0QEGOYXLSePsC1k',
+                url: 'https://trackerhub.cx/sh/18jg6xvszIju_Q5DsCzD_NPHNI68ddSXn_b5LAYu-q7g/recent',
             },
             {
                 hues: ['231', '212'],
