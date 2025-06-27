@@ -200,7 +200,7 @@
                 hues: ['128', '135'],
                 key: 'comps',
                 name: 'Comps',
-                url: 'https://docs.google.com/spreadsheets/d/1ZOy3EVSlr8LYQGyLLO_MFQSyyG70DAhZ8LwnHgEZqyQ/edit?gid=1142030474#gid=1142030474',
+                url: 'https://docs.google.com/spreadsheets/d/11t9f4FtNou5oZ08CXcPkfhE60qMM26pbEfmNvOfccJ0/edit?gid=1142030474#gid=1142030474',
             },
             {
                 hues: ['138', '138'],
@@ -219,7 +219,7 @@
                 hues: ['204', '204'],
                 key: 'ye',
                 name: 'Ye Tracker',
-                url: 'https://trackerhub.cx/sh/1gcxroOyDGXgiQlqn8pGsNmWO6RLlmJ3I-kX8t59Mue4/recent',
+                url: 'https://trackerhub.cx/sh/1Lw_Tla3_mcdphK46NlPp4bkoBQ4RqRB9B-lHC9d7j_c/recent',
             },
             {
                 hues: ['231', '212'],
