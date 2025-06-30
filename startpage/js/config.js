@@ -219,7 +219,7 @@
                 hues: ['204', '204'],
                 key: 'ye',
                 name: 'Ye Tracker',
-                url: 'https://trackerhub.cx/sh/1Lw_Tla3_mcdphK46NlPp4bkoBQ4RqRB9B-lHC9d7j_c/recent',
+                url: 'https://trackerhub.cx/sh/1rF0sa1_EwhrSHuZfUhOny_cmbsxZ4NYi5Yn3XVSFlZc/recent',
             },
             {
                 hues: ['231', '212'],
