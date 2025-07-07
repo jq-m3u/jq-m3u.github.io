@@ -200,7 +200,7 @@
                 hues: ['128', '135'],
                 key: 'comps',
                 name: 'Comps',
-                url: 'https://docs.google.com/spreadsheets/d/11t9f4FtNou5oZ08CXcPkfhE60qMM26pbEfmNvOfccJ0/edit?gid=1142030474#gid=1142030474',
+                url: 'https://docs.google.com/spreadsheets/d/1LL2yjszR6xuDHkkFuTQ0FAsxO_WyGXRxuRPY_6BzuvQ/edit?gid=1142030474#gid=1142030474',
             },
             {
                 hues: ['138', '138'],
@@ -214,12 +214,6 @@
                 name: 'GitHub',
                 search: '/search?q={}',
                 url: 'https://github.com/',
-            },
-            {
-                hues: ['204', '204'],
-                key: 'ye',
-                name: 'Ye Tracker',
-                url: 'https://trackerhub.cx/sh/1rF0sa1_EwhrSHuZfUhOny_cmbsxZ4NYi5Yn3XVSFlZc/recent',
             },
             {
                 hues: ['231', '212'],
