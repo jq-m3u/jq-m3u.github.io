@@ -200,7 +200,7 @@
                 hues: ['128', '135'],
                 key: 'comps',
                 name: 'Comps',
-                url: 'https://docs.google.com/spreadsheets/d/1LL2yjszR6xuDHkkFuTQ0FAsxO_WyGXRxuRPY_6BzuvQ/edit?gid=1142030474#gid=1142030474',
+                url: 'https://docs.google.com/spreadsheets/d/1nr2HT7K3htNqRe3reZaIpR4pr1DdBOB2Nolcm-g5RCk/edit?gid=1142030474#gid=1142030474',
             },
             {
                 hues: ['138', '138'],
