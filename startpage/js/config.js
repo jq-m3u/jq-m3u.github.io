@@ -222,6 +222,12 @@
                 url: 'https://chat.deepseek.com/',
             },
             {
+                hues: ['231', '212'],
+                key: 'ye',
+                name: 'Ye Tracker',
+                url: 'https://docs.google.com/spreadsheets/d/1A1hcwSKGdE4Q9x_1wWqoT5m6CqJBu2t1911yADqw3js/edit?gid=713654230#gid=713654230',
+            },
+            {
                 hues: ['230', '294'],
                 key: 'copilot',
                 name: 'Copilot',
