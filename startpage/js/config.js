@@ -225,7 +225,7 @@
                 hues: ['231', '212'],
                 key: 'ye',
                 name: 'Ye Tracker',
-                url: 'https://docs.google.com/spreadsheets/d/1AeMAjo68ejaXaKJbwxfUZkd7yfS-_Qc5mMreAq4qRQg/edit?gid=713654230#gid=713654230',
+                url: 'https://docs.google.com/spreadsheets/d/1oEzVbKJJfNXPf2TFOsMjzZjcCB08NPvIJ3K_CZfKGJA/edit?gid=713654230#gid=713654230',
             },
             {
                 hues: ['230', '294'],

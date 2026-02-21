@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Start Page",
   "short_name": "Start Page",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "New Tab",
   "applications": {
     "gecko": {
