@@ -165,7 +165,13 @@
                 url: 'https://youtube.com/',
             },
             {
-                hues: ['0', '79'],
+                hues: ['24', '30'],
+                key: 'claude',
+                name: 'Claude',
+                url: 'https://claude.ai/new',
+            },
+            {
+                hues: ['30', '79'],
                 key: 'gmail',
                 name: 'Google Mail',
                 search: '/mail/u/0/?q={}#search/{}',
@@ -201,12 +207,6 @@
                 key: 'comps',
                 name: 'Comps',
                 url: 'https://docs.google.com/spreadsheets/d/1nr2HT7K3htNqRe3reZaIpR4pr1DdBOB2Nolcm-g5RCk/edit?gid=1142030474#gid=1142030474',
-            },
-            {
-                hues: ['138', '138'],
-                key: 'gpt',
-                name: 'ChatGPT',
-                url: 'https://chat.openai.com/',
             },
             {
                 hues: ['120', '130'],
